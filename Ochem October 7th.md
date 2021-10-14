@@ -1,6 +1,6 @@
 ---
 created: 2021-10-07T08:03:47-04:00
-modified: 2021-10-12T16:28:02-04:00
+modified: 2021-10-14T09:14:16-04:00
 type: Journal
 ---
 
@@ -13,12 +13,14 @@ type: Journal
 ** regioselective, marks rule
 ** stereochemistry na
 ** rearrangement possible
+** Adds X to most substituted C
+** Adds H to least substituted
 
 * mechanism
 ** Pi electrons remove H+ from HX and C+ forms
 ** halide ion attacks C+
 
-* Halogenation
+* Halogenation X2
 ** 50/50 opposite side attachment (trans)
 ** No carbocation forms so no rearrangement
 ** Creates a racemic mixture
@@ -49,6 +51,8 @@ type: Journal
 ** Stereochemistry gets scrambled during the second step and therefore it gets cancelled out
 *** 50/50 cis trans again
 *** No dashes and wedges for this rxn only
+** OH ends up on the most substituted carbon
+** Mark addition
 
 * If a molecule is achiral do not worry about dashes and wedges
 
@@ -92,3 +96,19 @@ type: Journal
 *** Heat of Hydrogenation
 ** Advanced research in forming chiral catalysts
 *** Able to add H to a selected side
+
+* Ozonolysis O3/(CH3)2S
+** Chain molecules will form 2 products
+** Ring molecules will form a chain product
+** Regiochemistry and stereochemistry do not apply
+** Pi and sigma bonds broken
+*** Ends up double bonded to O
+** Products are ketones and/or aldehydes
+** Intermediate is called molozonide
+** Intermediate #2 is called ozonide
+** Mechanism will not be on the exam 
+*** But we will predict major products 
+** Count the carbons and keep track of them
+
+* If you only have one chiral carbon from an alkene don't worry about stereochemistry
+** Rings probably have chirality
