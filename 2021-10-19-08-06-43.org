@@ -1,2 +1,133 @@
 # +TITLE: Orgo CH 9
 
+#+DESCRIPTION: Nucleophilic Substitution and beta elimination
+
+* Nucleophilic Substitution
+** Any reaction in which one nucleophile is substituted for another at a tetravalent carbon
+** Replace a halogen with a nucleophile
+** The resulting functional group depends on the nucleophile you start with
+** Factors influencing nucleophilicity
+*** Charge
+**** Negative vs neutral, negative wins
+*** Electronegativity
+**** As EN decreases nucleophilicity increases
+*** Sterics
+**** The more branched a nucleophile is the slower it reacts
+*** Solvent
+**** The less the nucleophile reacts with the solvent the greater it wants to react
+1. Polar aprotic solvent
+- cannot participate in H bonding with nucleophile
+- Nucleophilicity increases as you go up a column
+2. Polar protic solvent
+- can participate in H bonding with nucleophile
+- Nucleophilicity increases as you go down a column, in the same solvent
+
+
+* Sn2 Reaction
+** Substitution, nucleophilic, 2nd order overall 
+** Replacing the halogen with a nucleophile
+** Carbon must be sp3 hybridized
+** Halogen called leaving group
+** Nucleophile attacks from the opposite side of the leaving group, backside attack
+*** This backside attack results in an inversion
+*** S to R and R to S
+** For an Sn2 reaction it must be a good or moderate nucleophile
+*** Good nucleophiles have negative charges
+*** Moderate nucleophiles are either neutral or stabilized by resonance
+*** Poor nucleophiles are neutral oxygen's
+** Rate = k[HO-][CH3Br]
+*** First order in respect to nucleophile, first order in respect to the carbon, 2nd order overall
+** Primary > Secondary >>> Tertiary alkyl halides
+*** Less bulky groups in the way of the C allow the reaction to proceed faster
+** The leaving group
+*** More stable leaving groups alone are more willing to leave
+*** More electro negative are more willing to leave
+*** Going up a column increasing willingness to leave
+** The solvent
+*** Best solvent is a polar aprotic solvent
+**** Solvent does not interact with nucleophile as much allowing it to react faster
+** If a molecule is achiral you do not need to worry about stereochemistry
+
+
+* Sn1 Reaction
+** Substitution, nucleophilic, 1st order overall
+** Carbon must be sp3 hybridized
+** Step 1 leaving group leaves all by itself
+*** Forms a C+
+**** Tertiary > Secondary >>>> Primary alkyl halides reaction rate
+**** Stereochemistry results in a mixture of inversion and retention depending on which side of the P orbital the nucleophile attacks (racemic mixture)
+**** Because of the C+ formation rearrangements are possible
+** Step 2 nucleophile attacks C+
+** Step 3 AB reaction neutralizes the O by removing a H
+** Rate = k[C(CH3)2Br]
+*** Nucleophile concentration does not change rate
+** For a Sn1 Reaction polar protic solvents are next because they can help stabilize the C+
+** Poor nucleophiles typically react via Sn1 
+*** O's that are neutral
+** More stable C+ react faster
+** Same trends for leaving groups
+
+* Sn2 vs Sn1
+** Types of alkyl halides
+*** Methyl CH3X
+**** Sn2 yes, Sn1 doesn't happen C+ unstable
+*** Primary RCH2X
+**** Sn2 yes, Sn1 rarely occurs 
+*** Secondary R2CHX
+**** Sn2 yes, Sn1 yes, depends on solvent and nucleophile type
+*** Tertiary R3CX
+**** Sn2 no. Sn1 yes
+
+* Beta elimination
+** Dehydrohalogenation
+** A halogen and hydrogen are removed forming an alkene
+** Halogen is removed from one carbon
+** Hydrogen is removed from neighboring carbon
+
+* Zaitsev's rule
+** Want to for the most stable alkene possible
+** The more substituted an alkene is the more stable it is
+** You have to remove the beta proton from the most substituted carbon
+
+* E1 reaction
+** Elimination, unimolecular
+*** Unimolecular means only one species is involved in the rate determining step
+*** Rate = k[electrophile]
+** First step is rate determining
+** sp3 hybridized carbon has a halogen removed turning it into a C+
+** Hydrogen is then removed from one carbon leaving us with an alkene
+** Halogen leaving group step fully completed before beta hydrogen is removed
+** The hydrogen is removed via a base
+*** Weaker bases prefer the E1 reaction
+** Tertiary > Secondary >>> primary C+
+** Rearrangements are possible due to C+ formation
+** Solvent for E1
+*** Polar protic solvents are best
+** E1 and Sn1 are competing reactions
+
+* E2 reaction
+** Rate = k[electrophile][base]
+** Take a proton away and at the same time break a bond to give stable molecules or ions
+** Stereochemistry
+*** Halogen and beta proton must be in the anti-coplanar formation 
+*** opposite sides in the same plane
+*** You will have to twist the molecule in order to make it line up correctly
+** No C+ formation so no rearrangement
+** Must follow Z's rule
+*** Z's rule applies if you have a small unhindered base
+**** -OH -OCH3 -OEt
+*** Hofmann's rule applies with big bulky bases
+*** Small bases can remove the Z proton
+*** Big bases must remove the non Z proton (Hofmann)
+** Sn2 vs E2
+*** E2 strong base
+*** E2 Tertiary fastest
+*** The only reaction that Tertiary is not the fastest is Sn2
+** If the halogen is equatorial the reaction cannot proceed
+*** Have to make the halogen axial 
+
+* E1 vs E2
+** Oxygen with - is strong
+** Oxygen neutral is a weaker base
+** Strong bases do E2
+** Weaker bases do E1
