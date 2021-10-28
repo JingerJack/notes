@@ -36,3 +36,6 @@
 ** If attempted with a secondary alkyl halide E2 will take over
 ** Really good way to make a C C bond
 *** Can be related to turn a terminal alkynes into an internal alkyne
+
+* Alkoxide
+** Negative charge on an oxygen
