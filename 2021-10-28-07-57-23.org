@@ -1,5 +1,38 @@
 # +TITLE: Alkynes
 
 * Naming practice
-** 2,2,3-trimethylhept-4-yne
+** 2,2,3-trimethyloct-4-yne
+*** Additionally 2,2,3-trimethyl-4-octyne
 ** (E)6-ethyl-2-en-4-yne
+
+* Alkynes
+** C X triple bond
+*** Sp hybridized
+*** Also called acetylene
+
+* Alkyne naming
+** Infix -yn- 
+** Number = first carbon in the triple bond
+** Less priority than alkene
+** -adiyn- -atriyn-
+
+* Physical properties of alkynes
+** Hydrocarbon properties
+
+* Acidity of alkynes
+** pKa of 25 in a terminal alkynes
+** Triple bonds shorter than double bond
+*** Negative charge more stable on a triple bond
+** Bases must form weaker acids then alkynes
+*** Amine bases work, alcohol bases do not
+*** H- is also strong enough to work
+*** NaNH2, LiN(iPr)2, NaH
+
+* Alkylation reactions of acetylene ions (Sn2)
+** Removing a terminal proton from acetylene forms acetylide ions
+** No stereochemistry
+** Methyl or primary alkyl halides ( undindered)
+** Secondary or tertiary don't work well
+** If attempted with a secondary alkyl halide E2 will take over
+** Really good way to make a C C bond
+*** Can be related to turn a terminal alkynes into an internal alkyne
