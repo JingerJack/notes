@@ -39,3 +39,26 @@
 
 * Alkoxide
 ** Negative charge on an oxygen
+
+* Dehydrohalogenation (E2 twice)
+** Internal alkyne 2 moles of base
+** Terminal you need 3
+** Two successive dehydrohalogenations
+** Sodium amides cause this to occur rapidly
+*** You can use weaker bases (OH) to only go once
+** Alkene formation
+*** C=C=C
+** R       H
+**  \     /
+**   C=C=C
+**  /     \
+** R       R
+
+
+* Nomenclature
+** Vicinal dihalide
+*** C with the halogens are next door
+** Vinyl halide
+*** Halogen bonded to a Sp2 hybridized carbon
+
+* TODO make an ochem reaction roadmap
