@@ -1,6 +1,91 @@
-# +TITLE: Food protection systems
+# +TITLE: Food protection systems - prevention
 
-* Hazard analysis and critical control points (HAACP)
+* Hazard analysis and critical control points (HCACP) 1970-1990
 * Sanitation
 * Quality assurance
 * Labeling
+
+* Common technologies
+** Control point
+*** A step in the process that can be controlled
+** Corrective action
+*** A procedure that must be implemented of there is a deviation
+** Critical control point CCP
+*** A step where control is applied
+** Critical limit
+*** Criterium that a CCP must meet
+** Deviation
+*** If the critical limit is not met then we have a deviation
+** Hazard
+*** Physical, chemical, biological hazards that make good unsafe for consumption
+** Monitor
+*** A procedure or method to make sure that CCP is meeting critical limit
+** Risk
+*** likelihood that a hazard will occur
+** Sensitive ingredient
+*** Associated with the term hazard, the ingredient in the production where a hazard is a concern
+** Verification
+*** Combining all the steps in HACCP, monitoring, recording, controlling
+
+* HAACP steps
+1. Assessing the hazards (physical, chemical, biological)
+2. Identifying critical control points
+3. Setting up control procedures a standards for critical control points (critical limit)
+4. Monitoring critical control points
+5. Taking corrective action (only if a deviation occurs)
+6. Verify that the system is working
+7. Develop record keeping system to document HACCP
+** These steps are why the USA has the next food supply
+
+* Sanitation - minimizing contamination
+** Hygienic and healthful conditions
+** Control of biological, chemical, and physical hazards on a food environments
+** Application of science to provide wholesome food
+*** Food was prepared by healthy workers in a clean environment
+
+* Sanitation benefits 
+** Cleaning vs sanitizing
+*** Cleaning removes dirt
+*** Sanitizing inactivates microorganisms
+** Improved product acceptability
+** Increased product shelf life
+** Satisfied and delighted customers
+** Reduced public health risks
+** Increased trust of regulatory agencies and inspectors
+** Reduced product waste and removal
+** Improved employee morale
+
+* Quality assurance
+** Food quality
+*** Conformance
+*** Fitness for purpose
+*** Degree of excellence
+*** Acceptability
+**** Different from person to person
+** Aspects of food quality
+*** Appearance
+**** Size shape color structure etc 
+*** Texture
+**** Tenderness, crispiness
+*** Flavor
+**** Aroma(volatiles) and taste
+***** Sweet sour salty bitter umami
+*** Nutritional quality
+*** Microbial load 
+** Subjective vs objective
+
+* Quality assurance procedures
+** Raw and packaging materials quality
+*** Raw materials will only be accepted is they meet the test standards for that material
+** In line/in process product
+*** Intermediate product testing, dough will not be baked if it has to much moisture
+** Finished product
+*** Testing texture, flavor, color
+*** Company will retain a portion of the product to test expiration dates
+
+* Labeling
+** Dating
+*** Open dates, code dates
+*** Example, best in used by date, expiration date, pack date, pull date
+**** Best in used by date means that the product has full nutritional quality
+** Allergen free labeling
