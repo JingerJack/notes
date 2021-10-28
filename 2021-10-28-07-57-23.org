@@ -1,2 +1,5 @@
-# +: TITLE
+# +TITLE: Alkynes
 
+* Naming practice
+** 2,2,3-trimethylhept-4-yne
+** (E)6-ethyl-2-en-4-yne
