@@ -131,3 +131,39 @@
 ** Oxygen neutral is a weaker base
 ** Strong bases do E2
 ** Weaker bases do E1
+
+* TODO Practice of reactions 
+* TODO Create 1 sheet to compare reactions
+1. Mechanism is concerted 
+
+2. Yields alkene as a major product 
+E1 and E2
+3. Reaction is first order overall
+Sn1 E1
+4. Requires a strong base
+E2
+5. Involves complete inversion at chiral center
+6. Tertiary alkyl halides teacher faster than primary alkyl halides
+7. Rearrangements are possible
+8. Requires a good leaving group
+9. Forms a radical intermediate
+10. Rate will double is concentration of nucleophile is doubled
+11. Completed with E1
+12. Requires anti coplanar conformation
+13. Alkyl halides can be sp2 hybridized
+14. Generally accelerated in protic solvents
+15. Forms racemic product at chiral center
+
+* Sn1 vs E1 
+** Difficult to predict the radio between them
+
+* Sn2 vs E2
+** Branching at alpha or beta carbon
+*** Increasing steric hinderence decreases the rate of Sn2 and increase E2
+** The greater Nucleophilicity of the attacking regent more Sn2 and the greater basicity of the attacking reagent more E2
+*** Substitution if pKa <11
+*** Elimination if pKa >11
+** Higher temperature favors elimination, lower temperature favors Substitution
+
+* Flowchart ( look at textbook)
+1. R group is primary and stericly undindered
