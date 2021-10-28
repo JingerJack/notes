@@ -46,7 +46,7 @@
 ** Two successive dehydrohalogenations
 ** Sodium amides cause this to occur rapidly
 *** You can use weaker bases (OH) to only go once
-** Alkene formation
+** Allene formation
 *** C=C=C
 ** R       H
 **  \     /
