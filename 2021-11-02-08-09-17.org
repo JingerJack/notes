@@ -1,0 +1,36 @@
+# +TITLE: Alkynes and developing synthetic schemes
+
+* Halogenation of alkynes
+** 1 eq adds Br to both sides of alkyne
+*** Dibromoalkene
+** 2 eq adds Br to both sides twice
+*** Tetrabromide 
+** Anti stereoselectivity 
+*** Add to opposite sides
+** If done in an acidic condition it increases the preference for anti addition
+
+
+* Hydrohalogenation of alkynes
+** Alkynes to vinyl halides 1 eq
+** Alkynes to geminal dihalide 2 eq
+*** Halogens end up on the same carbon
+** Marks rule due to an intermediate resonance structure when using 2 eq 
+
+* Hydroboration-Oxidation of alkynes
+** Addition of borane derivative to an alkene Yields trialkenylborane
+** Syn addition
+** Non marks addition
+** Sia2BH
+*** Sia means bulky alkanes
+*** Used make it only react once
+** Terminal alkyne Yields an aldehyde
+*** Enol forms aldehydes because they are unstable
+*** Keto-enol tautomerism under basic conditions
+**** -OH removes proton
+**** Draw resonance structure
+**** Add proton back
+**** Keto form major product
+*** Move atoms around to from more stable product
+*** Can happen under acidic or basic conditions
+**** Basic: negative charges overall
+**** Acidic:
