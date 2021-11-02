@@ -33,4 +33,20 @@
 *** Move atoms around to from more stable product
 *** Can happen under acidic or basic conditions
 **** Basic: negative charges overall
-**** Acidic:
+** Keto-enol tautomerism can go backwards and forwards following the same steps
+** Boron = non marks
+
+* Acid catalyzed hydration of alkynes
+** Mercury = marks 
+** Major product ketone form
+** Marks rule 
+** Acidic tautomerism
+*** Positive charges
+*** Steps 
+**** Add proton
+**** Resonance
+**** Remove proton
+** Keto form product
+** H adds to terminal carbon
+** OH forms carbonyl on the other C
+** This and the above reaction with both form ketones when an internal alkyne is used
