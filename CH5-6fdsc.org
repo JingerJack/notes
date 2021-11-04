@@ -1,0 +1,120 @@
+#+TITLE: CH56fdsc
+
+* Food processing and preservation
+** Heat
+** Cold
+** Dehydration
+** Concentration
+** Food additives
+** Food Packaging
+
+* Principles / Goals of food processing
+1. Addition of heat
+2. removal of heat
+3. removal of moisture
+4. protection - packaging material
+
+* Importance of preservation
+** Increase shelf-life of foods
+** Increase availibility
+*** seasonality
+*** longer selling periods for fruits/veggies
+** Variety and convenience
+*** easy to prepare food
+*** microwave dinner
+** Adding value
+** Providing (supplementing) nutrients
+
+* Principles of Food Preservation
+** Prevention or delay of microbial decomp
+*** dehydrated/instant mash potatoes must undergo heat treatment to prevent browning of potatoes
+** Killing the microorganisms
+** Prevention or delay of self decomposition
+** prevention of damage
+
+* Food Processing
+** transforming animal/plant/marine materials into intermediate or finished value added products
+*** Any processing after killng or harvest
+** Different steps that happen after harvest depending on what food is being processed
+** Then the products will undergo distribution
+*** packaging and shipping for different retailers
+** Primary Processing
+*** initial processing that occurs after harvest or slaughter to make food consumption redy, or for use in other food products
+*** food can be eaten directly, otherwise it will be used to make another food product
+** Secondary Processing
+*** turns primary processed foods into other food products
+*** creating a pineapple upsidown cake
+
+* Food/Beverage
+** 16% of all shipments in the US by value
+
+* Unit opertions in food processing
+** Unit operation = steps
+** food material may be combined with a number of ingredients to formulate the product and these ingredients are subjected to different steps (unit operations) to produce the final product
+** combining these unit operations will create a process flow chart
+1. Heat Transfer
+   - heat exchange between a product and its surrounding medium
+   - cooking your product
+   - must have a temperature gradient
+   - heat transfer will not occur if there is no temperature difference
+   - cooling a product is also considered a heat transfer
+2. Mass Transfer
+   - migration of constituient of fluid or a component of mixture in or out of a food product
+   - seperating or removing a portion of the raw material
+   - dehydrated or dried products (removing water)
+3. Fluid Flow
+   - Transporting fluid food through pipes during processing
+4. Mixing
+   - Use to evenly distribute each ingredient during manufacturing of a food product
+   - during further processing it is important that food is porperly mixed so the following steps apply in th same fassion to all pieces
+5. Size Adjustment
+   - Food is either reduced into smaller pieces or in some instances increase in size is also possible
+   - can be an increase or decrease in size
+   - agglomeration - increase in size
+   - gelation - forming a 3d network of proteins
+6. Seperation
+   - Seperation and recovery of targeted food components from a complex mixture of compounds
+
+* Factors to consider in food processing
+1. Raw material testing
+2. Cleaning and sanitation
+   - Clean and healthy workers
+3. Engineering properties of food, biological and packaging material
+   - how does a material conduct heat?
+4. Acidity and water activity
+   - pH and water activity of the material
+5. Microbiological considerations
+6. Reaction Kinetics
+   - what are the changes in the componenets of the food that occur when processing is performed
+   - does killing the microbacteria remove vitamins?
+   - does it alter the color or taste?
+   - we dont want to alter the nutritional quality by removing microorganisms/pathogens
+
+* Emerging Issues and Sustainability in Food Processing
+** Feeding the world
+** Overcoming the negative perceptions about processed foods
+*** 5-10 years ago it was much worse
+*** We have less ingredients in out food now, which is an imporvement
+*** Food manufacturing plants are looking for ways to remove additive ingredients because that is what consumers want
+** Obesity
+** Sustainability
+
+* Heat preservation
+** Cooking
+*** Makes food more palatable
+*** renders food safe for eating
+*** Provide (unlimited) vaiety in the menu
+*** improves digestibility
+** Sterilization
+*** Complete destruction of microorgansms, bacterial spores (121C for 15 min)
+*** Not used in food manufacturing
+*** Used for thin materials
+** Commercial Sterilization
+*** Product is free of microorganisms capable of gorwing under non-refridgerated conditions
+*** Product is freeof microorganisms that are of public health concerns
+*** Time listed is to reduce 90% microoganisms
+*** can continue reducing by 90% everytime the process is repeated
+*** 12D process Cl. botulinum
+**** reduces bacterial load by 99.9999999999%
+**** D = 0.21 min
+**** 12D = 2.43 minutes
