@@ -1,0 +1,26 @@
+#+TITLE: Alkynereduction
+
+* Reduction of Alkynes
+** H2/Pd = Alkane (syn addition, concerted)
+*** adding hydrogen across the pi bond twice
+*** Almost always happens twice, not very likely to only add one set of hydrogens
+** H2/Lindlar's Cat = cis-alkene (syn addition, concerted)
+*** Lindlar's cat = powdered Pd metal deposited on CaCO3 that has been poisond with Pd salts and quinoline
+**** weaker catalyst, meaning the rxn only happens once
+*** both H add to the same side due to how the alkyne sits on the catalyst
+** Na/NH3 = trans-alkene (anti-addition)
+*** H adds to opposite sides
+*** due to this the H's are added at different times (step-wise mechanism)
+*** Na + NH3(l)
+**** Na dissolved creates a Na(1+) ion
+***** Na loses 1 electron
+**** This extra electron is stabilized by the NH3 floating around
+**** When moving electrons use a double headed arrow for lone pair
+**** use a fishhook arrow for 1 electron
+**** Step for Mechanism
+1. add e- (creates a radical anion, trans intermediate)
+2. add H+ (from NH3, creates a vinyl radical)
+3. add e- (repeat 1, from Na+)
+4. add H+ (repeat 2, from NH3, forming a trans alkene)
+** BH3 can also be used as lindlar's catalyst
+** Whe perofrming this last 2 rnx on a terminal alkyne the result will be the same because of the H on one end
