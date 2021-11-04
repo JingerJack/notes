@@ -1,4 +1,4 @@
-# +TITLE: Alkynes and developing synthetic schemes
+#+TITLE: Alkynes and developing synthetic schemes
 
 * Halogenation of alkynes
 ** 1 eq adds Br to both sides of alkyne
@@ -50,3 +50,7 @@
 ** H adds to terminal carbon
 ** OH forms carbonyl on the other C
 ** This and the above reaction with both form ketones when an internal alkyne is used
+** reagents
+*** water
+*** H2SO4
+*** HgSO4

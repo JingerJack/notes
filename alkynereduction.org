@@ -24,3 +24,16 @@
 4. add H+ (repeat 2, from NH3, forming a trans alkene)
 ** BH3 can also be used as lindlar's catalyst
 ** Whe perofrming this last 2 rnx on a terminal alkyne the result will be the same because of the H on one end
+* Ozonolysis of an alkyne
+** generates a carboxylic acid
+** no regio/stereo chemistry
+* Retrosynthetic Analysis
+1. Count the C atoms of the Carbon skeleton of the target molecules
+   - challange - determining how to build the carbon skeleton from the available starting materials
+   - only method to date for forming new C - C bonds is the alkylation of acetylide anions
+   - only method to date for breaking C -C bonds is ozonolysis
+2.  Analyze the function group
+   - what are they, how can they be changed to form skeleton, how can they be used to form final function groups of the target molecule
+3. Work backward - use retrosynthesis
+   - retrosynthesis: a process of reasoning backward from a target mmolecules to a set of sutible starting materials
+   - open arrow = step in retrosynthesis
