@@ -111,10 +111,205 @@
 *** Used for thin materials
 ** Commercial Sterilization
 *** Product is free of microorganisms capable of gorwing under non-refridgerated conditions
-*** Product is freeof microorganisms that are of public health concerns
-*** Time listed is to reduce 90% microoganisms
+*** Product is free of microorganisms that are of public health concerns
+*** Time listed (D-value) is to reduce 90% microoganisms
 *** can continue reducing by 90% everytime the process is repeated
 *** 12D process Cl. botulinum
 **** reduces bacterial load by 99.9999999999%
 **** D = 0.21 min
-**** 12D = 2.43 minutes
+**** 12D = 2.43 minutes 121C
+**** This time can be increased from 15-30 minutes if heating solid foods
+**** Nutritional qualities are not easily reduced during heat processing, meaning the bacteria can be reduced without ruining the food
+** Pasteurization
+*** heat treatent employing temp below 100C for the preservation of food
+*** More of a mild treatment
+*** 63C-75C depending on the product and time used
+*** objectives
+**** destroy pathogenic microgranisms
+**** extend shelf life
+***** 1-2 weeks
+***** 6 weeks chilled
+** Blanching
+*** Mild heat treatment applied to fruits and veggies prior to freeing, drying, and canning
+*** Objectives
+**** inactivation of enzymes
+**** enhance drying/rehydration
+**** removal of tissue gas
+**** enhance color of green veggies
+**** reduce microbial load
+*** Highest temp used is 100C (boiling water)
+*** Removal of enzymes is important to preserving the color and textur of the veggie
+*** Freeze/dry
+**** Inactivation of enzymes and enhance drying/rehydration
+*** Canning
+**** Removal of tissue gasses
+***** This gives you a higher pressure delta between the atmosphere and the can
+* Modes of heat processing (heat transfer)
+** Conduction
+*** Occurs in solid foods wherein energy is transfered from one molecule to another
+*** Outside in
+*** If the food material is too tightly packed so that it cannot move, this is the method that will be used
+*** The temp difference between the inner and outer molecules of food cause the inner molecules to be the last part heated
+**** Known as the cold point
+** Convection
+*** Heat is transfered as a result of temp gradient
+*** Can be used on foods either liquid, or liquid suspensions
+**** The solid pieces of food are technically heated by conduction within the liquid suspension
+*** Natural
+**** Thermal gradiant due to density difference in a heated product
+**** Heated molecules will become less dense thus floating to the top, forcing the less dense cold molecules to the bottom, repeating this process
+*** Forced
+**** facilitated by mechanical agitation
+** Radiation
+*** Occurs as a transfer of heat energy by electromagnetic radiation
+*** The pan is heated by the oven through radiation
+**** then the pan heats the dough through conduction
+
+* Heating foods in containers (also known a canning, or retorting)
+** Food will cook in cans (still retorts and agitating retorts)
+** A retort is a big pressure cooker
+*** still retort involves no movement
+*** agitating retort will spin or move its contents
+
+* Heating food prior to packaging
+** Milk pasteurization
+** Batch pasteurization
+*** Low temp long time (145F, 30 min)
+*** High temp short time (161F, for 15 sec)
+**** Will lead to milk with a shelf life of 2-3 weeks under chilled conditions
+** Aseptic technique (ultra pasteurization)
+*** Commercially sterilized outside the container,275F for 2-3 sec and packed aseptically
+*** Packaging performed inside a sterile room
+*** No need to be chilled (shelf stable milk, single serve coffee creamer)
+
+* Cold Preservation and storage
+** Refrigeration and Freezing
+*** Gentle methods of food preservation
+*** Reduced the rate of deterioration (but not the same degree as heat)
+*** Perishables (from time of harvest/slaughter and maintained throughout prior to use)
+**** Food must be kept under X degrees C constantly until eaten or used
+*** Lower temp prevents or delays growth of pathogenic microorganisms
+**** Under refrideration temp of 4C most things will not grow
+**** But there are a few that will survive these chilled temps
+*** Lower temp also prevents certain enzymes from activating and lowering food quality
+*** Refrigeration
+**** -2C-16C
+**** Even though this temp is below freezing liquids will not freeze due to solutes present in the water
+**** 4-8C household
+*** Freezing
+**** around -18C
+**** the temp must be this low to cause water to freeze due to solute present in the liquid
+** Requirements
+*** Controlled low temp
+**** Should be within +/- 1C of the selected temp
+**** Can be selected by food type
+**** Can be selected by how many people are working
+***** People generate heat, so lower temperatures are required to maintain freezing or cooling
+*** Air circulation and humidity
+**** Dont want to fast of air, because that may dehydrate the food
+**** The moisture content of the air is also important in order to keep the moisture of the food at the right level
+***** Match the moisture of the food with the humidity of the air
+*** Gas atmosphere
+**** Controlled atmosphere storage
+**** Fruits and veggies
+***** Undergo respiration even after harvest
+***** Gives of CO2 and requires O2
+***** Normally 20% O2 and <0.1% CO2
+***** To prevent this you reduce O2 and increase CO2
+****** More products will shift the equilibirum towards the reactants
+** Changes that Occur during Cold Preservation
+*** Flavor and color
+**** Color of red meat will become more brown over time
+*** Nutrient Lossses
+**** oxidation of nutrients
+**** Vitamin C
+*** Textural Changes
+**** Softening of tissues
+**** Staling of bread and cakes
+**** lumping and caking
+***** low moisture products
+**** Certain fruits/veggies can become worse if they are placed in the fridge (chill injury)
+** Freezing and Frozen Storage
+*** convenience foods in the house
+*** restraunts and institutional feeding establishments
+*** Freezing point
+**** temp at which liquid turns to solid
+*** Freeing point depressions
+**** property of aqueous solutions that leads to lower freezing point when the concentration of dissolved solids is increased
+**** colligative property
+**** Salt solution vs Sugar solution
+***** these two will have different effects on the freezing point of water when the same weight is used
+*** Concentration effects
+**** if you have a solution of pure water vs a solution of orange juice, orange juice is 10-12% solutes, pure water will freeze first due to less/no solutes
+**** as the portion of pure water continues to freeze the concentration of solutes in the unfrozen phase will increase, further depressing its freezing point
+**** when a food item refeezes its texture will change
+*** Ice crystal damage
+**** Quick Freezing (more quality, commercial use)
+***** happens at temps les than or equal to -25C,
+***** leading to formation of small ice crystals
+***** Smoother texture
+**** Slow Freezing (lesser quality, home fridge/freezer)
+***** happens at temps above -25C
+***** formtion of large ice crystals
+***** Cell walls are ruptured
+** Freezing Methods
+*** Air Blast (tunnel) freezing
+**** Utilizes still or forced cold air
+**** food placed on racks and moved into insulated tunnel
+**** cold air is blown over food until product reaches 0C
+*** Plate freezing
+**** packaged foods are placed between metal plates which conduct cold to the product so that it reachers 0C
+**** physical contact from the plates squeezing the product
+*** Cryognic Freezing
+**** food product is immersed or sprayed with liquid nitrogen
+**** -60C
+**** used for irregular shaped food
+**** brine solution
+
+* Dehydration (Heat and Mass Transfer)
+** Heating the product to remove moisture
+** Importance
+*** Preservtion
+**** Sun dried
+**** Less moisture in the product will not allow microbial growth
+**** Addition of salt/smoke has preservtive effect
+**** Controlled condition (artifical drying)
+**** Amount of moisture after dehyrdration can be as low as 1-1.5% moisture
+***** Sun drying can achieve 14-15% reduction of moisture
+**** Shelf life of multiple years
+*** Decrease weight and bulk
+**** Milk powder 1/8th weight and size
+*** Convenience Items
+**** pre cooked meals
+** Considerations
+- Surface Area
+  - majority of products are converted into smaller pieces
+  - leads to increased surface area
+  - Heat into the product is also increase
+  - leads to more moisture reduction
+- Temperature
+  - The greater Temp delta leads to faster dehydration
+- Air velocity
+  - Higher air velocity will lead to a faster dehydration
+- Humidity
+  - Greater humidity delta between product and air wil lead to faster and greatr dehydration
+- Atmospheric Pressure
+  - Lower pressure allows water to boil at lower temps
+  - Faster dehydration
+- Evaporations and Temp
+  - When water evaporates it has cooling effect on the product
+  - Air needs to keep moving
+- Time an Temp
+  - Depends on the specific product
+  - Shorter times and Higher Temps = higher quality
+** Methods
+*** Air Convection Driers
+**** Drying by heated air blown in a tunnel, cabinet or tray
+*** Drum or Roller Driers
+**** The product is dried on two heated stainless steel drums before it is scraped off
+**** Hot drums cause instant drying
+*** Spray Drying
+**** Product is dried as it is sprayed into a chamber with hot air
+**** Paste, Puree, juices, milk
+**** Hot air drys the atomized product
+**** upon contact there is an immediate drying of the product

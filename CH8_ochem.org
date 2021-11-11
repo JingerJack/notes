@@ -1,0 +1,162 @@
+#+TITLE: CH8 Ochem
+
+* Radical reactions
+
+* Structure of alkyl halides
+** Haloalkane (alkyl halide)
+*** Halogen atom covalently bonded to a sp3 hybridized Carbon
+*** R-X
+** Haloalkene (vinylic halide)
+*** Halogen atom bonded to a Carbon of a C=C bond
+** Haloarene (Aryl Halide)
+*** Halogen atom bonded to a benzene ring
+*** Ar-X
+
+* Alkyl Halide nomenclature (IUPAC Naming)
+** Number the chain so that the first substituent has the lowest number (alkyl group or halogen)
+** Use halogen prefixes in alphabetical order
+***  fluoro-, chloro-, bromo-, and iodo-
+** Use a number to indicate which carbon the group is located on
+** Make sure the double bond has the lowest number
+
+* Alkyl Halide Common Names
+** Consist of the common name of the alkyl group followed by the name of the halide as a seperate word
+
+* Halogenation of Alkanes
+** Initiation
+*** Formation of reactive intermediates (radical, anions, cations)
+*** Start with nonradical or noncharged molecules
+** Propigation
+*** Reaction of a radical and a molelcule to form a new radical
+*** Cycle continues until termination stage
+*** Goes on until their is nothing left to react
+** Termination
+*** Destruction of reactive intermediates
+*** Relatively rare compared to chain propagation steps in radical chain reaction
+*** Two radicals react to form a neutral product
+** Reactants
+*** Cl2 and Br2 Work well
+*** CH3CH3 + Cl2 -> CH3CH2Cl + HCl
+** Steps
+1. Initiation Break Cl-Cl Bond forming two Cl* atoms
+   - using heat or light
+2. Propagation 1 e- from H reacts with 1 e- from Cl*
+   - forms CH3CH2* and HCl (HCl = byproduct)
+3. Propagation CH3CH2* reacts with Cl2
+   - forms CH3CH2Cl and Cl* (CH3CH2Cl is what we want to make)
+   - also reforms the Cl* radical
+4. Termination Pick two radicals to react with each other
+   - Cl* + Cl* -> Cl2
+   - CH3CH2* + Cl* -> CH3CH2Cl
+   - CH3CH2* +CH3CH2* -> CH3CH2CH2CH3
+** Stereochemistry
+*** Racemic mixture if you have a chiral Carbon
+** Regiochemistry
+*** Different product depending on which H is removed
+*** 6 H vs 2 H
+**** Predicted 75 vs 25
+**** observed 43 vs 57 with Cl
+***** not selective
+**** observed 4 vs 96 with Br
+***** selective
+**** Radicals formed can be tertiary, secondary, or primary
+***** When Cl is used the ratio is 5:4:1 of 3*,2*,1*
+****** This is due to tertiary radicals being more stable
+***** When Br is used the ratio is 1600:80:1
+*** To find the percent you multiply the ratio times the H available per tertiary, secondary, or primary
+*** This reaction will not happen with F or I
+**** HI not reactive enough, activation energy is too high, and rate it too low
+**** HF too reactive, activation energy is too low, and is dangerously fast
+** Hammond's Postulate
+*** way to redict what the structure of a transition state looks like
+*** structure of the transition state is:
+**** reached early if exothermic
+***** resemble the reactants
+**** reached late if endothermic
+***** resembles the products
+*** Chlorination
+**** Abstraction of H by chlorine radical is exothermic
+**** Transition state is reacher early and the structure resembles the alkane and the Cl atom
+***** There is little radical character on C in the transition stat
+**** Regioselectivity is only slightly influenced by the relative stabilities of radical intermediates
+***** Products are determined by wheter a Cl atom happens to collide with a 1*, 2*, 3* H
+**** When using Cl the Primary, Secondary, and Tertiary H are very close in energy so they all have a chnace to react (hence 5:4:1 ratio)
+*** Bromination
+**** Removal of H by bromine radical is endothermic
+***** significant radical character on C in the transition state
+**** Reasons from larger stereoselectivity
+***** Later transition state ad correspondingly larger difference in activation energies that causes a larger difference in reaction rates
+**** Tertiary H always for bromonation
+***** then secondary if needed
+
+* Allylic Halogenation
+** Allylic substitution:
+*** any raction inwhichan arom or a group of atoms is substituted fo another atom or group of atoms at an allylic carbon
+*** allylic carbon: carbon adjacent to a C=C bond
+** an allylic C-H bond is weaker than a vinylic C-H bond
+** N bromo sicinimide
+*** Generates a very small amount of Br radicals over time
+*** Also generates a small amount of Br2
+** Major product will be Zaitsev alkene
+*** Double bond may move
+** Steps
+1. Bromine Radical reacts with 1 e- from Allylic C-H bond
+   - forms HBr (dont care about)
+2. Forms a stable radical (due to resonance)
+3. Most stable alkene = major product
+4. Least stable alkene = minor product
+5. More stable alkene reacts with Br-Br
+   - forms Br* byproduct
+   -
+
+* Radical Intermdiates
+** RI vs C+
+*** C+ sp2 (empty p orbital)
+*** RI sp2 (unpaired e- in p orital)
+** Generating Radicals
+*** Heat
+*** Light
+*** Peroxides
+**** breaks O-O bond; requires little energy and proceeds at room temp
+** Stability of RI
+*** Tertiary > Secondary > Primary
+*** More substituted = better
+*** Resonance stability also helps
+
+* Radical Addition of HBr (non mark's addition of Br)
+** HBr and ROOR (PEROXIDE) (H2O2, HOOH, Peroxide, O O single bond)
+** Non marks addition of HBr occurs when in the presence of peroxides or other sources of radicals are present
+*** Add Br then add the H
+** Marks addition occurs when radicals are absent (the more familiar way from before)
+*** Add H then add the Br
+** This rxn cannot occur with HCl
+*** HCl bond is too strong for the abstraction of a H atom
+** This rxn cannot occur with HI
+*** HI is not reactive enough bcuse CI is weaker of CI
+** This rxn proceedes through the most stable intermediate
+** Steps
+1. Initiation
+   - O - O bond breaks giving 1 e- to each side
+   - Oxygen radicals react with H-Br
+   - Forms Br* and ROH
+2. Propigation
+   - alkene bond gives one e- and Br gives 1 e-
+   - Last e- moves towards the most substituted C (forming a C radical)
+   - Adds Br to the non-mark's position because the radical is most stable on the more substituted C
+   - Radical C reacts with H-Br neutralizing that C and regenerating the Br* radical
+3. Finalize
+   - COmbine two radical species
+
+* Radical Autoxidation
+** Autoxidation
+*** Oxidation requiring oxygen
+**** occurs by a radical chain mechanism similar to that for alylic bromination
+**** forms hydroperodxides
+** Autoxidation of polyunsaturated fatty acid esters in cooking oils forms potentially toxic and/or cacinogenic compounds
+
+
+* multistep synthesis practice
+** Count C atoms in starting material and ending material
+** Make C/C bonds using the acetelyde method
+** Break C/C bonds with ozonolysis
+** Pick a simple alkane and start exploring
