@@ -1,0 +1,259 @@
+#+TITLE:CH10 Alcohols
+
+* Structure of Alcohols
+** Function group of an alcohol is an -OH (hydroxyl) group bonded to an sp3 hybridized carbon
+*** Oxygen atom is sp3 hybridized
+**** 2 sp3 hybridized orbitals form sigma bonds to a carbon and a hydrogen
+**** remining two sp3 hybrid orbitals each contain an unshared pair of electrons
+** Alcohols can be Primary, Secondary, and Tertiary
+
+* Nomenclature of Alcohols
+** Suffix of "-e" is changed to "-ol"
+** Numbering beginds with the Carbon bearing the -OH group for cyclic alcohols
+** In complex alcohols, the number for the hydroxyl group is often placed between the infix and the suffix
+*** (E)-pent-2-en-1-ol
+** 1-propynol
+** if you have 2 alcohols
+** diol, triol
+
+* Physical porperties of Alcohols
+** Alcohols ar polar compounds, thus they interact with themselves and other polar compounds (water)
+*** Dipole-Dipole interactions
+**** positive dipole and negative dipole interaction
+*** HYdrogen Bonding
+**** Attraction between dipoles when the positiv end of one dipole is a H atom bonded to O or N atoms
+** The more alcohols you have the higher the boiling points due to hydrogen bonding
+*** These alcohols hold themselves together very strongly
+*** Alcohols are very soluble in water due to "like disolves like"
+
+* Acidity of Alcohols
+** Alcohols can function as weak acids (proton donors) and weak bases (proton acceptors)
+** depending on the environment it is placed in it will change its functions
+*** Acidic conditions : alcohol will function as a base
+*** Basic conditions: alcohol will function as an acid
+** Acidity depends primarily on the degree of stabilization and solvation of the alkoxide ion by water molecules
+*** pKa of 16-18
+
+* Acidity review
+** Carboxylic acid vs Ethanol
+*** Compare their conjugate bases
+*** Really stable negative charges are more acidic
+*** Carboxylic acid = 5
+*** Ethanol = 10
+** More substitued Carbons cause the pKa to increase (inductive effect)
+** Comparing ethanol vs ethanol with 3 F's
+*** The F pulls negative charge towards itself stabilizing the negative charge
+*** Making the compound more acidic
+** Adding methyl = less acidic
+** Adding Halogen = more acidic
+
+* Rxns of ALcohols with active metals
+** Rxn with Li, Na, K and other active metals liberates hydrogen and forms metal alkoxides
+** Rxn wirh bases stronger than the alkoxide ions converts alcohol to salts
+*** One such base is sodium hydride
+** Neutral O = poor nucleophile
+** -OH = poor leaving group
+** To make alcohols do rxn you need a very good electrophile
+** Alcohols are much more reactive in strong acidic or strong basic conditions
+** Basic Conditions
+*** Remove H foriming an alkoxide
+**** Alkoxide is a good nuc and a really strong base
+**** Sn2 chem
+**** E2 chem
+*** Metals are strong enough to remove the H
+*** NaH is also strong enough
+** Acidic Conditions
+*** Gains a proton
+**** Adds H to form a water
+*** Called Oxonium Ion
+**** Very Electrophilic
+**** Forms a very good leaving group in the form of water
+*** Sn1/E1 Chem
+**** No strong nuc or base
+
+* Rxns of Alcohols with HX
+** Tertiary Alcohols react rapidly with HCl, HBr, and HI
+*** Chemists propose Sn1
+**** Protonate the Alcohol
+**** Water leaves
+**** X attacks
+** Secondary Alc
+*** many give som rearrangement
+*** Sn1
+** Primary Unhindered Alc
+*** Sn2
+**** Form water
+**** then backside attack with x
+** Primary Hindered Alc
+*** Sn1
+** rxn coordinate diagram
+*** Sn2 (2 steps)
+**** Acid-Base is very quick
+***** and exothermic
+**** Sn2 is rate limiting
+***** also exthermic
+******** Products lower than reactants
+*** Sn1 (3 steps)
+**** Acid-Base
+***** ecothermic and quick
+**** Leaving group
+***** high activation energy, high energy
+**** X attacks
+***** exothermic
+
+* Lucas Reagent
+** COnverts alcohols into alkyl chlorides
+*** Cl- is a weaker nuc than Br
+*** An additional lewis acid (ZnCl2) is sometimes added to promote the rxn of HCl with alcohols
+**** Zinc coordinates more strongly than a proton does
+** Primary slow, Tertiary Fast
+
+* TODO Predict Major products
+** TODO C+ rearrangements
+** TODO Rearrangement and loss of water occur at the same time
+bottom right = methyl shift
+top right = hydride shift
+
+* Rxn with HX limitations
+1. Perent yeild is low (from primary, and secondaryalc)
+2. Eliminations
+   - water = good leaving group
+   - E1 competes with Sn1
+   - if there is heat E1 is more likely
+3. Rearrangements
+   - they suck
+4. Limited ability to make alkyl halides
+   - many alcohols do not readily react with HI to yield alkyl iodides
+
+* rxn of alc and PBr3
+** an alternative rxn for converting primary and secondary alcohols to bromoalkanes by using PBr3
+*** mild conditions compard to HBr
+*** rearrangements are less common, when cold
+*** Involves Sn2 displacement - chiral centers inverted
+** Cannot use for Tertiary alcohols
+** Only use on primary and secondary alcohols
+** Steps
+*** O attacks P
+*** kicks out 1 Br
+*** PBr2 added to O
+*** Br-
+*** OHPBr2 = Leaving group
+*** Br- attacks from the back and kicks out ^
+*** inverted stereochem
+
+* Rxn of alcohols with SOCl2
+** Thionyl Chloride, SOCl2, is the most widely use reagent for the conversion of primary and seconary alcohols to chloroalkanes
+** In the presence of pyridine or a tertiary amine such as NEt3
+*** amide catalyzes the rnx y forming a small amount of the alkoxide in equili and neutralizes the HCl or HBr
+*** Involves Sn2 displcement - chiral center inverted
+** Forms SO2 and HCl
+*** hence the need for a small amount of base to neutralize the HCl
+*** SO2 is a gas therefore the rxn favors it
+**** it goes away therefore forming even more products
+** Steps
+*** O attacks sulfur
+*** Breaks one of the bonds between S and O
+*** make the molecule neutral
+*** reform O=S and kick out 1 Cl
+*** Cl- grabs the H from the positive O
+**** forms HCl byproduct
+**** base neutralizes the acid forming conjugate base (Cl-)
+*** OSOCl = leaving group
+*** Backside attack by Cl- and LG leaves
+** Electrons slide over to form the other O=S bond
+** Cl leaves
+** Turns Alcohol into a chlorine group
+
+* Summary Day 1 Alc -> Alkyl Halides
+** HX rxn works best for tertiary alc
+*** C+ Sn1
+*** rearrangements possible
+*** racemic mix
+** PBr3 and SOCl2 rxn works best for primary and secondary alc
+*** Sn2
+*** Chiral inverted
+
+* Alcohols as nucleophiles
+** -O = strong nuc (Sn2)
+** O = weaker nuc (Sn1)
+** Whe Alcohols react as a nuc the OH bond is broken
+
+* Alcohols as electophiles
+** Adding H to OH makes it a good leaving group
+*** Easy under Acidic concditions
+*** The problem is that Acetelyde wants to do acid/base chem before it does Substitution
+
+* Formation of Aryl and Alkyl Sulfonates
+**  Solfonyl chlorides are derivd from sulfonic acids
+*** SUlfonic acid = strong acid
+*** Sulfonate anion is a very weak base = good LG
+** Commonly used sulfonyl chlorides
+*** TsCl
+*** MsCl
+** A poor leaving group (OH) is converted into a good leaving group (OTs or OMs)
+*** OTs= OSO2PhMe
+*** Big leaving group
+*** OMs = no ph instead just a methyl
+*** These are a better leaving group than alkyl halides
+**** This is due to resonance being stabilized across 3 O atoms
+** Rxn with NaCN
+*** SN2
+** Rxn with NaOEt
+*** E2
+
+* Sulfonate Reactivity
+** Primary, Secondary, Tertiary alcohols can be converted into sulfonates
+** They can do substituiton or elimination
+** SUlfonates are generally more reactive than halides
+** Converting OH to OTs retains sterechemistry
+*** Going from OTs to whatever then inverts the stereochem
+
+* Acid catalyzed dehydration of an Alcohol
+** Alc can be converted to an alkene by dehydration
+*** Dehydration
+**** elimination of a molecule of water from adjacent carbons
+*** Acid catalyst
+**** H2SO4 or H3PO4
+*** E1 Mechanism
+**** Rearrangements
+**** Tertiary > Secondary >>> Primary
+** Hydration vs Dehydration
+*** HYdration: H20 and H2SO4
+**** Tons of water an little bit of acid
+*** Dehydration H2SO4 and Heat
+**** Tons of acid and very little water
+**** Trying to get rid of water so you dont want to start with a ton of water
+** Steps (Normal E1 rxn)
+1. Protonate the alcohol
+   - forms HSO4- which is a poor nuc
+   - Meaining Elimination is our only option
+2. Water leaves on its own
+   - check for rearrangements
+3. That same water removes the adjecent proton forming an alkene
+4. Acid is regenerated
+** This rxn favors zaitsev's alkenes
+** This rxn favors trans alkenes
+*** Minor products
+**** Cis alkenes
+**** Hoffman alkenes
+** If done with a Primary Alc the rearrangement will occur at the same time as the water leaving
+*** Very small amount of E2 can happen
+
+* HYdration - Dehydration equili
+** Alkene hydration and alc dehydration rxn are reversible
+*** Lots of water favors formation of alc
+*** lots of acid favors formation of alkene
+
+* The pinacol rearrangement (Diol to carbonyl (ketone/aldehyde))
+** Products of acid-catalyzed dehydration of glycols are different from those of acid-catalyzed dehydration of alcohols
+*** dehydration of a glycol to forms a carbonyl
+*** Migration of a methyl group (or hydride ion) from one carbon to an adjacent carbon
+** Studies of unsymmetrical vicinal diols
+*** The -OH group that becomes protonated and leaves is the one that give rise to the more stable C+
+** Steps
+1. Protonate one alcohol
+2. Water leaves
+3. Methyl or Hydride shift occurs (resonance)
+4. Resonance structure forms by transfering electrons from the oxygen to form a double bond
+5. Remove a H with Water
+6. Make sure the number of C has stayed the same
