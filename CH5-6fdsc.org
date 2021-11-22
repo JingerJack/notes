@@ -313,3 +313,98 @@
 **** Paste, Puree, juices, milk
 **** Hot air drys the atomized product
 **** upon contact there is an immediate drying of the product
+
+* Concentration (increase in concentration of solutes, decreasing water activity)
+** Done primarily to reduce weight and bulk to make transportation easier
+** Preservative effect
+*** Salt ~18-25%
+*** Sugar ~70%
+** Methods
+*** open kettles
+**** used for maple syrup as high heat produces desired color and flavors. Also used for jams, jellies, and other types of soups
+*** Vacuum evaporators
+**** pressure lower than 1 atm
+**** evaporation/boiling of water is lower than 100C
+**** grape juice concentrate
+*** Freeze concentration
+**** orange juice concentrate example
+*** Ultrafiltration
+**** use of membranes
+**** only allow the passage of certain molecules through
+**** very expensive process
+**** whey protein isolate = 90% protein
+**** whey protein concentrate = 75% protein
+** Changes that occur during concentration
+*** Cooked flavor
+*** Darkeining of color
+**** caramelization of sugar
+**** sugae and milk -> caramels
+*** thickening or gel over time
+**** during storage
+**** protein forms the gel
+**** ex: sweetened condensed milk that is stored will have partially turned into a gel
+
+* Food additives (useful and acceptable function/ attributes)
+** Improve keeping quality
+*** lengthen shelf life
+*** antimicrobials (preservatives)
+**** benzoic acid, sorbic acid
+*** antioxidants (retention of desireable flavors)
+**** BHT, BHA, EDTA (added to protect flavor)
+**** very low concentration used in food products
+** Enhance nutritional value
+*** supplementation
+*** addition of folic acid, and other B vitamins in enriched flour
+** Functional property provision and improvement
+*** thickning property
+**** starch
+**** xanthan gum
+***** Used in place of starch due to its consistent porperties across wide ranges of temperatures
+*** Gelation
+**** Protein
+** Processing facilitation
+*** chemical leavening agents
+*** reducing agents in dough
+**** to form weaker dough (less structure)
+** Enhance consuer acceptance
+*** not used to conceal defects or damage to products
+*** red no. 40
+**** used for a consistent red color with no fading over time
+
+* Food Packaging
+** Fucntions, requirements and features
+*** nontoxic and compatibility
+**** if in direct contact with the food
+*** protection
+**** do not allow microorganisms inside
+**** sanitary
+**** moisture
+**** gas and odor protection
+**** light
+*** resistance
+**** to damage
+**** strong packaging
+*** transparency
+**** consumers want to see the product
+*** tamper resistant/evident
+**** gas seal button on glass jars
+*** ease of use and disposal
+**** pouring of milk
+**** cereal boxes
+**** salt container
+**** easy to open can
+*** appearance
+*** cost
+** Types of food packaging
+*** Primary vs secondary
+**** Primary = direct contact
+**** Secondary = no direct contact with food
+*** Rigid vs flexible
+**** maintaining shape vs conforming to whatever shape
+*** Pre-formed or in-line forming
+**** pre formed = glas bottles
+**** in-line = potato chip bag
+*** Hermetic closure
+**** cans, glass bottles
+**** impermable to gas or odor
+***
