@@ -575,3 +575,8 @@
 ***** Coagulation when heated
 ***** foaming
 ***** Emulsification
+**** Cannot pasturize for too long as the eggs will cook
+**** Dried eggs can be stored for a year (but yolks can be stored shorter due to their higher fat content)
+*** Uses
+**** Baked goods, noodles, confectionary, mayonnaise
+**** Removal of sugar from eggs to preserve the yellow color of yolk
