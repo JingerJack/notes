@@ -408,3 +408,170 @@
 **** cans, glass bottles
 **** impermable to gas or odor
 ***
+
+* Milk and Milk Poducts
+** Milk- the secreted fluid of the mammary glands of female mammals
+*** Therefore plant extracts cannot be called milk
+** Physiochemical Properties
+*** White or yellow-white opaque liquid
+**** white color = fat/protiens
+***** scattering and absorbing light energy
+**** yellow color of milk is due to the presence of carotenoids in the fat phase
+***** carotenoids come from the diet of the cows
+**** along with riboflavin(B2 vitamin) in the aqueous phase
+*** mildly sweet with faint odor and flavor
+**** sweetness from lactose
+**** odor from a variety of compounds
+***** raw milk may have a rancid odor (urine odor)
+*** specific gravity of 1.029 to 1.039 (15C)
+**** ratio of the density of the substance as compared to the density of pure water (1.000 g/ml)
+**** if milk is adulterated this number would be closer to 1 as there would be more water present
+*** freezing point -0.53 to -0.55C
+**** freezing point depression due to solutes present
+**** if milk is adulterated this number would be closer to 0 as there would be more water present
+*** pH 6.5-6.75
+**** slightly acidic compound almost neutral
+*** Milk chemical makeup
+**** cow milk is very different as compared to human milk
+**** cow milk has a much higher protien content
+**** human milk has a much higher sugar content
+*** Cow milk breakdown
+**** 87% water
+**** 4% fat
+**** 3.6% protein
+**** 5% lactose
+**** 0.7% ash (mineral)
+*** Milk proteins
+**** 30-36 g/L milk
+**** High nutritive value
+**** Casein
+***** 80% of bovine milk (coagulate during cheese production)
+**** Whey
+***** Protiens that do not coagulate
+**** Enzymes
+***** associated with membranes in milk, influences stability of dairy foods
+*** Milk fat
+**** cream
+**** occurs in the form of droplets of globules surrounded by the membrane and whey
+**** Separate after prolong storage or upon centrifugation (creaming)
+*** Milk carbohyrates
+**** milk sugar - lactosse
+**** lactos constitutes 4-6% of milk and up to 50% of solids in skim milk
+**** disaccharid of galactose and glucose
+**** The sweetness is less than glucose, fructose, and sucrose
+*** Nutrient contribution
+**** children get a greater portion of their nutrients than adults
+**** adults drink less milk as we get older
+*** Milk processing
+**** Raw milk
+***** 4*C
+***** High viscosity milk
+**** Preheating
+***** To lower viscosity of the milk
+**** Centrifugition
+***** allowing cream to rise to the top
+***** creates cream and skim
+**** Purification, fat adjustment
+***** to create skim milk you need <0.3% fat
+***** if you are creating 2% milk you need to add some fat back into it
+**** Pasturization
+***** many methods
+**** Homogenization
+***** high pressure processing
+***** pushing the milk through valves to reduce the size of fat globules
+***** This allows milk to stay as one liquid and not seperate as if it was raw milk
+**** Left
+***** Filling
+***** sterilization
+***** Sterilized milk
+***** condensed milk
+***** 250F for unsweetened
+***** less processing for sweetend due to the high sugar acting as a preservative
+**** Right
+***** Ultrahigh heat treatment (UHT)
+***** Homogenization
+***** Aseptic filling
+***** UHT milk
+***** Shelf stable milk cartons
+**** Filled milk (other countries)
+***** Substitute vegetable oil for milk cream
+** Butter production
+*** Water and oil emulsion
+*** Composition
+**** 81-85% fat
+**** 14-16% water
+**** 4% fat free solids
+**** 1.2% salt (salted butter only)
+**** Water drops are surrounded by fat
+*** Production
+**** Raw milk centrifigued
+**** Cream is standardized, pasturized, and cooled
+**** Sour cream butter
+***** Incubation (operating culture) (lactic acid bacteria)
+***** churning
+***** kneading
+***** sour cream butter
+**** Sweet cream butter
+***** Ripening
+***** Churning
+***** Kneading
+***** Sweet cream butter
+** Cheese production
+*** obtained from curdled milk by the removal of whey and curd ripening in the presence of microflora
+*** 2000 cheese varieties worldwide
+*** Process
+**** can be ripened or not
+**** curdling can be done with acid or enzyme
+***** enzyme attacks proteins which then split and recombine
+***** acid will cause everything to precipitate
+** Ice cream
+*** Frozen mass which can contain
+**** whole milk, skim milk products, cream, butter, sugar, vegetable oil, eggs, fruit, fruit ingredients, coffee, cocoa, aroma substances, and approved food colors
+**** Ice cream has 50% air by volume, that is where the reduced nutrient content come from
+**** Air makes it so that your mouth does not feel very cold to our mouths
+** Other milk products
+*** Dried milk powder
+*** Coffee whiteners/creamers
+*** Fermented milk
+*** Whey products
+*** Lactose
+
+* Eggs and egg products
+** natural biological structure with shll offering portection for developing embryo
+** one of nature's nearly perfect protins with execllent digestibility
+** eggs are the reference protein for the WHO
+** most novel proteins are compared to eggs
+** Egg white
+*** 11% protein
+*** mostly water
+*** small sugar
+** Egg yolk
+*** mostly fat
+** Structure
+*** yolk can become watery if stored for too long
+*** if will also sink to the bottom
+** Egg inspection and grading
+*** Candling
+**** allows a view of the shell and inside of the egg without breaking the shell, mass scanning or by hand
+**** Depending on the siz of the air cell the eggs will recieve differen grades
+***** <0.5mm= AA
+***** 0.5-0.7 = A
+***** >0.7 = B
+*** Size sorting
+**** Jumbo = 30oz/Dozen
+**** Peewee = 15oz/Dozen
+*** Egg processing
+**** Products
+***** Dried egg whites
+***** Frozn egg whites
+***** Liquid egg whites
+***** Dried yolk
+***** Frozen yolk
+***** Liquid yold
+***** Dried whole egg
+***** Frozen whole egg
+***** Liquid whole egg
+**** Egg functionality
+***** Coagulation when heated
+***** foaming
+***** Emulsification

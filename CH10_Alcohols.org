@@ -257,3 +257,104 @@ top right = hydride shift
 4. Resonance structure forms by transfering electrons from the oxygen to form a double bond
 5. Remove a H with Water
 6. Make sure the number of C has stayed the same
+
+* Thiols
+** Structure
+*** -SH (sulfhdryl) group bonded to a sp3 hybridized carbon
+** Name
+*** -thiol suffix
+*** maintain the "e" from the parent alkane name
+** Physical Properties
+*** show little association by hydrogen bonding because of the low polarity of th S-H bond
+*** lower boiling points and less soluble in water
+*** Low molucular weight thiols stink
+**** Shunk
+*** Thiols are added to natural gas so that leaks are detectible
+** Chemical Properties
+*** To make use RSH, with an Sn2 mechanism
+*** Primary or Secondary alkyl halide as your reagent
+** Acidity and Oxidation
+*** Thiols are stronger acids than alcohols
+*** When dissolved in a strong base they completly comvert into alkylsulfide salts
+*** Sulfur can be oxidized to several higher oxidation states
+**** Can have more than 8 electrons
+**** octet rule violation
+*** Sulfur is a good nuc because it is a weak base
+**** Prefer Substitution as opposed to elimination
+*** DIsulfide bonds
+**** R-S-H  --> R-S-S-R
+**** Oxidation
+
+* Oxidation of Alcohols
+** Oxidation of a primary alcohol gives an aldehyde or a carboxylic acid
+*** depends on conditions
+** Secondary alcohol -> ketone
+** Tertiary alcohol -> NOTHING happends
+** Mechanism
+*** Most oxidizing agents simply attach a good leaving group directly to oxygen
+*** E2 like rxn
+*** Removal of Alpha Protons
+**** Protons on the carbon bonded to O
+*** Oxidation
+**** Increasing C-O bonds
+**** Decreasing O-H bonds
+** Strength of oxidizing agent
+*** Secondary = does not matter
+**** forms ketone
+*** Primary = both options
+**** Weak = aldehyde
+***** Removal of alpha proton forms double bond
+**** Strong = Carboxylic acid
+***** removal of alpha proton forms aldehyde
+***** then OH is added
+*** Tertiary = nothing :(
+** Leaving groups
+*** Chromium
+*** Chlorine
+*** Sulfur
+*** Iodine
+** Chromic Acid H2CrO4 (Strong oxidizing agent)
+*** Secondary Alc = Ketone
+*** Primary Alc = Carboxylic acid
+**** oxidation is done by dissolving organic compounds in acetone and adding a stoichiometric amount of jones reagent to complete the oxidation
+**** Jones reagent
+***** solution of chromic acid in aqueous sulfuric acid
+*** Downsides
+**** Very toxic
+*** Environmentaly friendly options
+**** NaOCl (Bleach)
+**** With acetic acid
+*** Mechanism
+1. Formation of an alkyl chromate
+2. Take away a proton and break onds to give stable molecules or ions
+**** Chromic acid oxidizes a primary alcohol first to an aldehyde then a carboxylic
+***** The aldehyde is not oxidized rater the aldehyde hydrate formed by hydration
+***** Requires water fo this oxidation
+** PCC (weak oxidizng agent) Chromium complexed to pyridine
+*** secondary alc = ketones
+*** primary alc = aldehydes
+*** Agents that are weak
+**** PCC / Ch2Cl2
+**** Swern oxidation = 1. (COCl)2, DMSO / 2. Et3N
+***** environmentaly friendly PCC alternative
+**** DMP
+***** Dess-Martin periodinane
+***** HYpervalent
+****** compound with a greater electron count than predicted by the octet rule
+| Reagent            | Primary Alc     | Secondary Alc |
+|--------------------+-----------------+---------------|
+| H2CrO4             | Carboxylic Acid | Ketone        |
+| Bleach/Acetic Acid | Carboxylic Acid | Ketone        |
+| PCC                | Aldehyde        | Ketone        |
+| Swern              | Aldehyde        | Ketone        |
+| DMP                | Aldehyde        | Ketone        |
+** HIO4
+*** Periodic acid = H5IO6 or HIO4 * 2H2O
+*** Used to cleave a glycol o form two carbonyl groups
+*** Must be a cis 1,2-diol
+*** Alternative to ozonolysis
+
+* Biological Oxidation of Alcohols
+** Some of the most important biochemical examples of oxidation/reduction reactions involve nicotinamide adenine dinucleotide (NAD+)
+** One examples is the biological oxidation of alcohols via alchol dehydrogenase enzymes
+*** the porcess by which your liver detoxifies ethanol
